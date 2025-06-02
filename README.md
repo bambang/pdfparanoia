@@ -10,6 +10,11 @@ pdfparanoia это библиотека для удаления водяных �
 институтов, имена, IP-адреса, время и дату и другую информацию в водяные знаки
 содержащиеся на каждой странице.
 
+pdfparanoia adalah pustaka (library) untuk menghapus watermark pada file PDF, 
+khususnya untuk makalah akademik. Beberapa penerbit menyisipkan informasi 
+pribadi seperti nama institusi, nama pribadi, alamat IP, stempel waktu, 
+dan informasi identifikasi lainnya dalam bentuk watermark di setiap halaman.
+
 ## Installing
 
 Simple.
